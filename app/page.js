@@ -1,7 +1,12 @@
+import Header from './_components/header/Header';
 const Home = () => {
   return (
     <main>
-      <h1> This is the homepage </h1>
+      <Header /> 
+      <h1>
+        asd
+
+      </h1>
     </main>
   )
 };
