@@ -1,14 +1,13 @@
-import Header from './_components/header/Header';
+import React from "react";
+import Header from "./_components/header/Header";
+
 const Home = () => {
   return (
     <main>
-      <Header /> 
-      <h1>
-        asd
-
-      </h1>
+      <Header />
+      <h1>asd</h1>
     </main>
-  )
+  );
 };
 
 export default Home;
