@@ -1,10 +1,7 @@
 # backend:
-#   name: git-gateway
-#   branch: T-13-CMS # Branch to update (optional; defaults to master)
-
 backend:
   name: github
-  repo: username/repo # your GitHub username and repository name, separated by a slash
+  repo: BogdanDarlau/netlify-cms-react-app # your GitHub username and repository name, separated by a slash
   branch: master # optional, default value is "master"
 
 media_folder: "public/images" # Media files will be stored in the repo under static/images/uploads

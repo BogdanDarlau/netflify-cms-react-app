@@ -221,6 +221,14 @@
     }
   },
   "entryCSSFiles": {
+    "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\page": {
+      "modules": [
+        "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\_components\\header\\Header.css"
+      ],
+      "files": [
+        "static/css/app/page.css"
+      ]
+    },
     "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\layout": {
       "modules": [
         "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\_components\\navbar\\Navbar.css",
@@ -229,14 +237,6 @@
       ],
       "files": [
         "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\page": {
-      "modules": [
-        "C:\\Users\\Bogdan\\Desktop\\CMS\\laureus-website\\app\\_components\\header\\Header.css"
-      ],
-      "files": [
-        "static/css/app/page.css"
       ]
     }
   }

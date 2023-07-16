@@ -2,9 +2,9 @@ module.exports = {
   // ...other config options...
   webpack: (config) => {
     config.module.rules.push({
-      test: /\.ya?ml$/,
-      type: "json",
-      use: "yaml-loader",
+      test: /\.md$/,
+      loader: "frontmatter-markdown-loader",
+      options: { mode: ["react-component"] },
     });
     return config;
   },
